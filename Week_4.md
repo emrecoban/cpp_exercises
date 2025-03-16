@@ -1,5 +1,5 @@
 ## Soru 1 (For Loop):
-Kullanıcının girdiği bir sayıya kadar olan Fibonacci sayılarını hesaplayan ve ekrana yazdıran bir C++ programı yazınız. Program kullanıcıdan pozitif bir tamsayı almalı ve sayı geçersiz ise uygun hata mesajı vermelidir.
+Kullanıcının girdiği bir sayıya kadar olan Fibonacci sayılarını hesaplayan ve ekrana yazdıran bir C++ programı yazınız.
 
 ```
 Fibonacci sayılarını hesaplamak için bir üst sınır giriniz: 100
@@ -30,7 +30,7 @@ Girilen pozitif sayıların ortalaması: 20.0
 ```
 
 ## Soru 4 (Break and Continue):
-1'den 100'e kadar olan sayılar içinden, 3'e ve 5'e tam bölünmeyen sayıların toplamını bulan bir C++ programı yazınız. Program, döngü içinde break ve continue deyimlerini uygun şekilde kullanmalıdır.
+1'den 100'e kadar olan sayılar içinden, 3'e ve 5'e tam bölünmeyen sayıların toplamını bulan bir C++ programı yazınız. Program, döngü içinde `break` ve `continue` deyimlerini uygun şekilde kullanmalıdır.
 
 ```
 1'den 100'e kadar olan sayılardan 3'e ve 5'e tam bölünmeyenlerin toplamı: 1633
